@@ -38,15 +38,20 @@ print(grownregion)
 
 ### method used
 
+```
 grow_region(img,seed,threshold)
-
-*parameters
-
-**things
-
 ```
-Give an example
-```
+Parameters:
+
+  img-(2d array of floats from fits data) image to be grown with the threshold
+  
+  seed-(tuple) starting pixel (x,y) to grow region from
+  
+  threshold-(float) boundary condition to indicate where to stop the growing
+  
+Returns:
+
+  
 
 ## Deployment
 
