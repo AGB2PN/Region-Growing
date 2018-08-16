@@ -18,7 +18,9 @@ pip install numpy
 
 
 ### Example Tutorial
-```
+-----------
+
+```python
 import RegionGrow
 import astropy
 from astropy.io import fits
@@ -35,7 +37,7 @@ print(grownregion)
 
 
 ```
-
+-----------
 ### method used
 
 ```
