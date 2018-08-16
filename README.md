@@ -59,8 +59,7 @@ Returns:
 ## Special thanks
 
 as an astonomy researcher I needed this method to study extended dust shells of ppn.  I origionally got this idea from 
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) 
+[this stackoverflow thread](https://stackoverflow.com/questions/43923648/region-growing-python) 
 
 ## Versioning
 
